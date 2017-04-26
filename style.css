@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
+
+h3 {
+    margin: 0;
+}
+
+table {
+    width: 50vw;
+}
+
+th, td {
+    border: 1px solid white;
+}
+
+p {
+    width: 50vw;
+    text-align: justify;
+}
