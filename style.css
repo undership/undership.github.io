@@ -2,25 +2,20 @@ body {
     background: black;
     color: white;
 }
-
 a {
     color: cyan;
     text-decoration: none;
 }
-
 h3 {
     margin: 0;
 }
-
 table {
     margin: auto;
     width: 95vw;
 }
-
 th, td {
     border: 1px solid white;
 }
-
 p {
     text-align: justify;
 }
