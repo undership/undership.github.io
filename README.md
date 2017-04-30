@@ -12,7 +12,7 @@ The ships are sorted by ID, Ship Name, Portmanteau, and Rating.
 - Shipping ID is the Character IDs of the characters.
 - Shipping Name is the names of the characters seperated by an "x".
 - Shipping Portmanteau is the fused names of the characters.
-- Shipping Rating is my personal rating out of 5 for these ships. **Do not get triggered over it.**
+- Shipping Rating is my personal rating out of 5 for the ship. **Do not get triggered over it.**
 
 ### Contact
 hablab.emails@gmail.com
